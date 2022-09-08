@@ -1,6 +1,6 @@
 # Hardhat Fund Me
 
-This code has been developed following Patrick Collins' blokchain development course.
+First of all, i want to make it clear that the development of this project has been carried out following the steps of Patrick Collins' Blockchain Development course.
 
 This is a section of the Javascript Blockchain/Smart Contract FreeCodeCamp Cou
 rse.
